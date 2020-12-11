@@ -13,7 +13,7 @@ Python - demo_mysql_connection.py
 
 Java - ordpk
 
-# SQL Lite Implementation
+# SQLite Implementation
 orderPick_ddl_dml_sqlite.sql
 
 
