@@ -3,10 +3,14 @@ Emily Foley, Cole Nelson, and Debsankar Mukhopadhyay
 
 # DDL/DML:
 orderPick_ddl_dml.sql
+
+
 orderPick_ddl_dml_sqlite.sql
 
 # Source Code:
 Python - demo_mysql_connection.py
+
+
 Java - ordpk
 
 # AWS Implementation (proof of concept)
