@@ -15,10 +15,14 @@ Java - ordpk
 
 # AWS Implementation (proof of concept)
 Endpoint - database-1.c4n8mwgsa6gv.ap-northeast-2.rds.amazonaws.com
+
+
 Port - 3306
 
 # Report:
 project_report.pdf
+
+
 project_report.docx
 
 # Presentation slides
