@@ -4,6 +4,7 @@ Emily Foley, Cole Nelson, and Debsankar Mukhopadhyay
 # DDL/DML:
 orderPick_ddl_dml.sql
 
+User Interface Front End Design and SQL Queries.docx
 
 orderPick_ddl_dml_sqlite.sql
 
